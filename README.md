@@ -10,11 +10,6 @@ Sou um profissional formado em **Publicidade e Propaganda**, que decidiu explora
 
 ---
 
-### Projetos  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavobrandaoo&repo=variavel&theme=dark)](https://gustavobrandaoo.github.io/)
-
----
-
 ### Linguagens utilizadas  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobrandaoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
